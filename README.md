@@ -19,10 +19,10 @@ RTC & ENC：RCV8564 SMEC89SP
 
 原理图
 
-https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller/blob/master/Docs/SH_YK%E5%8E%9F%E7%90%86%E5%9B%BE.pdf
+![image](https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller/blob/master/Docs/SH_YK%E5%8E%9F%E7%90%86%E5%9B%BE.png)
 
 PCB
 
-https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller/blob/master/Docs/SH_YK_PCB.png
+![image](https://github.com/leiyitan/A-Digital-Wireless-Voice-Remote-Controller/blob/master/Docs/SH_YK_PCB.png)
 
 调试照片
